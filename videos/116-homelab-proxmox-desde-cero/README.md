@@ -8,7 +8,7 @@ Instalar Proxmox VE en equipo físico, configurar almacenamiento ya sea con un s
 
 ## Archivos
 
-- `pasos y comandos.md`: comandos usados en el video.
+- `pasos-y-comandos.md`: comandos usados en el video.
 - `README.md`: enlaces relacionados.
 
 ## Video
