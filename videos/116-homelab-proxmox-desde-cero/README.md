@@ -8,9 +8,7 @@ Instalar Proxmox VE en equipo físico, configurar almacenamiento con ZFS Mirror/
 
 ## Archivos
 
-- `comandos.md`: comandos usados en el video.
-- `checklist.md`: validaciones posteriores a la instalación.
-- `notas.md`: observaciones técnicas.
+- `pasos y comandos.md`: comandos usados en el video.
 - `referencias.md`: enlaces relacionados.
 
 ## Video
