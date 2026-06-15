@@ -9,6 +9,7 @@ Canal de YouTube: https://www.youtube.com/@PedroMorenoBOS
 | # | Tema | Carpeta |
 |---|------|---------|
 | 116 | Homelab con Proxmox desde cero | videos/116-homelab-proxmox-desde-cero |
+| 117 | Homelab con Proxmox desde cero | videos/Proxmox Homelab: Fallo de Disco y Recuperación |
 
 ## Objetivo
 
